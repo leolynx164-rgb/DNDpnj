@@ -34,7 +34,8 @@ Lance l’application :
 
 ### Windows
 
-Disponible prochainement
+Version BETA disponible ci [**windows D&D FORGE BETA**](https://github.com/leolynx164-rgb/Forge-DNDpnj/releases/download/untagged-9d57ca2d61893bb36eba/Forge.du.PNJ.Setup.1.0.0.exe)
+PLus de détail ici : https://github.com/leolynx164-rgb/Forge-DNDpnj/releases/tag/untagged-9d57ca2d61893bb36eba
 
 ------
 
