@@ -11,9 +11,10 @@ Une simple application Electron pour créer des PNJ D&D grâce à l’IA.
 Sous linux télécharger le fichier [AppImage ici](https://github.com/leolynx164-rgb/DNDpnj/releases/download/untagged-7bfb17907032eed3ad05/Forge.du.PNJ-1.0.0.AppImage)
 2. Rends-le exécutable :
 ```bash
-chmod +x Forge-du-PNJ-1.0.0.AppImage
+chmod +x Forge-du-PNJ-1.0.0.AppImage```
+
 Lance l’application :
-./Forge-du-PNJ-1.0.0.AppImage
+```./Forge-du-PNJ-1.0.0.AppImage```
 
 ### **Sous** **Windows**
 **Arrive bientôt**
