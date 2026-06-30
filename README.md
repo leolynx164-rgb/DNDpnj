@@ -14,11 +14,11 @@ Dans **Paramètres**, entrez le modèle d’IA (par exemple : `openai/gpt-oss-20
 Le endpoint OpenRouter est généralement :
 **https://openrouter.ai/api/v1/chat/completions**
 
-### Détails
+## Détails
 
-## Licence
+#### Licence
 
 MIT
 
-### Auteur
+#### Auteur
 Lynx164
