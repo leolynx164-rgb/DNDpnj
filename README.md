@@ -4,6 +4,8 @@ Une simple application Electron pour créer des PNJ D&D grâce à l’IA.
 
 <img width="1261" height="804" alt="image" src="https://github.com/user-attachments/assets/dccece1e-a559-4801-a07f-cae057328bd3" />
 <img width="1275" height="791" alt="image" src="https://github.com/user-attachments/assets/b9c6a4e2-1fa8-4e7c-ac6c-137762e34afa" />
+<img width="1266" height="801" alt="image" src="https://github.com/user-attachments/assets/6e3cf0ff-6305-487c-9a8b-a458559d359f" />
+
 
 ---
 
