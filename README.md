@@ -7,39 +7,46 @@ Une simple application Electron pour créer des PNJ D&D grâce à l’IA.
 
 ---
 
-## 📥 Téléchargement
+## Téléchargement
 
-### 🐧 Linux
+### Linux
 
-Télécharge le fichier AppImage ici :  
-👉 [Forge du PNJ AppImage](https://github.com/leolynx164-rgb/DNDpnj/releases/download/untagged-7bfb17907032eed3ad05/Forge.du.PNJ-1.0.0.AppImage)
+Télécharge le fichier AppImage ici :
+ https://github.com/leolynx164-rgb/DNDpnj/releases/download/untagged-7bfb17907032eed3ad05/Forge.du.PNJ-1.0.0.AppImage
 
-Rends-le exécutable :
+Rends le fichier exécutable :
 
-```bash
+```
 chmod +x Forge-du-PNJ-1.0.0.AppImage
+```
 
 Lance l’application :
 
+```
 ./Forge-du-PNJ-1.0.0.AppImage
-🪟 Windows
+```
 
-Arrive bientôt
+------
 
-⚙️ Configuration
+### Windows
+
+Disponible prochainement
+
+------
+
+## Configuration
 
 L’application fonctionne via l’API OpenRouter.
 
-Dans Paramètres, entrez le modèle d’IA (par exemple : openai/gpt-oss-20b:free) ainsi que votre clé API, récupérable sur https://openrouter.ai/
+Dans Paramètres, entrez le modèle d’IA (ex : openai/gpt-oss-20b:free) ainsi que votre clé API, récupérable sur https://openrouter.ai/
 
-Le endpoint OpenRouter est généralement :
+Endpoint OpenRouter :
+ https://openrouter.ai/api/v1/chat/completions
 
-https://openrouter.ai/api/v1/chat/completions
-ℹ️ Détails
-Licence
+------
 
-MIT
+## Détails
 
-Auteur
+Licence : MIT
+ Auteur : Lynx164
 
-Lynx164
